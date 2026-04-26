@@ -1,0 +1,10 @@
+# OCR
+pytesseract>=0.3.10
+Pillow>=10.0.0
+pillow-heif>=0.16.0
+
+# Image preprocessing (optional, improves OCR on photos)
+opencv-python-headless>=4.8.0
+
+# Local LLM (Ollama)
+ollama>=0.3.0

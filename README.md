@@ -2,6 +2,8 @@
 
 Extract basic bibliographic data (title, author, publisher, year, ISBN, etc.) from images of book covers or title pages using **local** OCR and a **local** LLM. Results are appended to a CSV file.
 
+The purpose of this project was to automate the process of cataloging my kids school book library collection.
+
 ## Requirements
 
 - **Python 3.8+**
